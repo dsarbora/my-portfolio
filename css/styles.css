@@ -6,9 +6,20 @@ img.full{
 }
 .hobbies{
   float: right;
+  position: relative;
+  bottom: 100px;
+
 }
-img.hobby{
+.img-center{
   text-align: center;
-  display:inline-block;
+  display: inline-block;
+}
+.hobby{
   width: 30%;
+}
+.index{
+  background-color: #444444;
+}
+.panel-body{
+  background-color: #eee;
 }
