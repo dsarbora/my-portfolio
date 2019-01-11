@@ -56,3 +56,6 @@ img:hover{
 .plain-link:visited{
 color: darkred;
 }
+.center{
+  text-align: center;
+}
