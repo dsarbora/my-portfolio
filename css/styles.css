@@ -1,9 +1,14 @@
-img{
+img.full{
   width: 100%;
 }
 .about-me {
   float: left;
 }
-.hobbies {
+.hobbies{
   float: right;
+}
+img.hobby{
+  text-align: center;
+  display:inline-block;
+  width: 30%;
 }
