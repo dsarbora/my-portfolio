@@ -1,3 +1,9 @@
 img{
   width: 100%;
 }
+.about-me {
+  float: left;
+}
+.hobbies {
+  float: right;
+}
