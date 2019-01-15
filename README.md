@@ -28,6 +28,8 @@ _Contact me at dsarbora@gmail.com_
 * _Bootstrap_
 * _Atom_
 * _GitHub_
+* _JavaScript_
+* _jQuery_
 
 ### License
 
