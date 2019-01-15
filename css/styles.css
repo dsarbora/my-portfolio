@@ -25,7 +25,7 @@ img.link:hover, img.hobby:hover {
   width: 30%;
 }
 
-.index {
+#index {
   background-color: #444444;
 }
 
@@ -83,4 +83,61 @@ color: darkred;
   border: 2px solid black;
   padding: 20px;
   margin: 40px;
+}
+.green-background{
+  background: linear-gradient(180deg, #6AA419, #FFFFFF);
+}
+
+.red-background{
+background: linear-gradient(180deg, #CF7F54, #FFFFFF);
+}
+
+.blue-background{
+background: linear-gradient(180deg, #50A3C0, #FFFFFF);
+}
+
+.grey-background{
+background: linear-gradient(180deg, #444444, #FFFFFF);
+}
+
+.purple-background{
+  background: linear-gradient(180deg, #6D116F, #FFFFFF);
+}
+
+.white-background{
+  background: linear-gradient(90deg, #FFFFFF, #FFFFFF)
+  opacity: 100%
+}
+
+#white{
+  background-color: #444444;
+  color: white;
+}
+
+#green {
+  background: linear-gradient(180deg, #6AA419, #FFFFFF);
+}
+
+#red{
+background: linear-gradient(180deg, #CF7F54, #FFFFFF);
+}
+
+#blue{
+background: linear-gradient(180deg, #50A3C0, #FFFFFF);
+}
+
+#grey{
+background: linear-gradient(180deg, #444444, #FFFFFF);
+}
+
+#purple{
+background: linear-gradient(180deg, #6D116F, #FFFFFF);
+}
+
+button {
+  width: 150px;
+  height: 75px;
+}
+#background-selector{
+  text-align: center;
 }
