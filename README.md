@@ -19,7 +19,7 @@ _Elements of this website will not line up as intended on small screen sizes_
 
 ## Support and contact details
 
-_Contact me at dsarbora@gmail.com_
+_Contact me at [dsarbora@gmail.com](dsarbora@gmail.com)_
 
 ## Technologies Used
 
