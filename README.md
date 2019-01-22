@@ -11,7 +11,7 @@ _This is a brief description of who I am, my work and coding experience, and som
 ## Setup/Installation Requirements
 
 * _A web browser is required to visit this website._
-* _This website can be found online at [dsarbora.github.io/my-portfolio](dsarbora.github.io/my-portfolio)_
+* _This website can be found online at [https://dsarbora.github.io/my-portfolio](https://dsarbora.github.io/my-portfolio)_
 
 ## Known bugs
 
